@@ -1,5 +1,4 @@
 import SignupForm from "./Components/SignupForm"
-import "./App.css"
 import Header from "./Components/Header"
 import LoginForm from "./Components/LoginForm"
 import { Routes, Route } from 'react-router-dom';
